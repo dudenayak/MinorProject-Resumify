@@ -1,15 +1,16 @@
 <div align="center">
-<h1>Single Page Resume Builder</h1>
+<h1>Resumify : Resume Builder</h1>
+
 
 ### Free and open source, fully customizable professional single page resume builder
 
 <a href="https://e-resume.vercel.app/"><img src="public/images/professional.png" alt="cover" height="415px" width="294px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://e-resume.vercel.app/"><img src="public/images/legacy.png" alt="cover" height="415px" width="294px"/></a>
 
-[![](https://img.shields.io/github/stars/sadanandpai/single-page-resume-builder?style=for-the-badge)](#stars)
-[![](https://img.shields.io/github/forks/sadanandpai/single-page-resume-builder?style=for-the-badge)](#forks)
 
-👉 &nbsp;&nbsp;[Single Page Resume Builder](https://e-resume.vercel.app/)&nbsp;&nbsp;👈
+
+
+👉 &nbsp;&nbsp;[Resumify : Resume Builder](https://resumify.vercel.app/)&nbsp;&nbsp;👈
 
 </div>
 
@@ -27,7 +28,7 @@
 
 ### For developers
 
-- `git clone https://github.com/sadanandpai/single-page-resume-builder.git`
+- `git clone https://github.com/dudenayak/MinorProject-Resumify.git`
 - `yarn install`
 - `yarn dev`
 
@@ -38,11 +39,3 @@
 - [Zustand](https://github.com/pmndrs/zustand) (hooks based state management library)
 - [Next.js](https://nextjs.org/) (Bundler)
 
-<div align="center">More features coming soon</div>
-
----
-
-Feel free to use the source to create your resume.<br/>
-Basic knowledge of HTML5, CSS and React is sufficient if you to customize the resume for your requirements.
-
-![](https://visitor-badge.glitch.me/badge?page_id=single-page-resume-builder)
