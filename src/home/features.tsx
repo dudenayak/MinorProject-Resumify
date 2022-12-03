@@ -40,7 +40,7 @@ const Features: NextPage = () => {
     <FeatureContainer>
       <div>
         <Image src="/home/no-account.png" alt="No account" height="50px" width="50px" />
-        <h2>No signup/signin</h2>
+        <h2>No SignUp/SignIn</h2>
         <p>
           Completely free and open source. No registration required. We do not store any of your
           information. Create unlimited resumes using our tool.

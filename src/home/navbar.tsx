@@ -36,17 +36,20 @@ const RightItemsContainer = styled.div`
 const NavBar: NextPage = () => {
   return (
     <Nav>
+      {/* <div style={{'display':'flex', 'flexDirection':'column'}}> */}
       <Link href="/">
         <a>
           <Image src="/logo.png" alt="logo" height="50px" width="50px" />
+          {/* <a className="nav-item show-web" >Resumify</a> */}
         </a>
       </Link>
+      {/* </div> */}
       <RightItemsContainer>
         <a className="nav-item show-web">Templates</a>
         <a className="nav-item show-web">Recommendations</a>
         <a className="nav-item show-web">About</a>
         <a
-          href="https://github.com/sadanandpai/resume-builder"
+          href="https://github.com/dudenayak/MinorProject-Resumify"
           className="icon"
           target="_new"
           title="Source code"

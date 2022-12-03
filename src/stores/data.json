@@ -2,10 +2,10 @@
   "basics": {
     "name": "Jane Doe",
     "label": "Frontend Developer",
-    "image": "https://www.linkpicture.com/q/generated_photos_5e68893b6d3b380006f22f8b.jpg",
+    "image": "https://www.linkpicture.com/q/no-account.png",
     "email": "janedoe@email.com",
     "phone": "+91 9876543210",
-    "url": "www.github.com/sadanandpai/",
+    "url": "www.github.com/dudenayak/",
     "summary": "I am a web developer having expertise in frontend development and exposure to back- end development. I design and develop web applications using the latest technologies to deliver the product with quality code.",
     "location": {
       "address": "",
@@ -20,23 +20,23 @@
     "profiles": [
       {
         "network": "linkedin",
-        "username": "sadanandpai",
-        "url": "https://www.linkedin.com/in/sadanandpai/"
+        "username": "dudenayak",
+        "url": "https://www.linkedin.com/in/devesh-jain-b68b3119a/"
       },
       {
         "network": "github",
-        "username": "sadanandpai",
-        "url": "https://github.com/sadanandpai/"
+        "username": "dudenayak",
+        "url": "https://github.com/dudenayak/"
       },
       {
         "network": "hackerrank",
-        "username": "paicube",
-        "url": "https://www.hackerrank.com/paicube/"
+        "username": "dudenayak",
+        "url": "https://www.hackerrank.com/dudenayak/"
       },
       {
         "network": "leetcode",
-        "username": "paicube",
-        "url": "https://leetcode.com/paicube/"
+        "username": "dudenayak",
+        "url": "https://leetcode.com/dudenayak/"
       }
     ]
   },

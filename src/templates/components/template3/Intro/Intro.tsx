@@ -14,8 +14,9 @@ const IntroContainer = styled.div`
     display: flex;
     align-items: center;
 
-    &__profile-image {
+    about__profile-image {
       img {
+        height: 72px;
         width: 72px;
         border-radius: 50%;
         border: 2px solid ${(props) => Color(props.theme.primaryColor).toString()};
