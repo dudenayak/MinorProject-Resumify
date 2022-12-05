@@ -39,16 +39,20 @@ const NavBar: NextPage = () => {
       {/* <div style={{'display':'flex', 'flexDirection':'column'}}> */}
       <Link href="/">
         <a>
-          <Image src="/logo.png" alt="logo" height="50px" width="50px" />
+          <Image src="/logo.png" alt="logo" height="100px" width="200px" />
           {/* <a className="nav-item show-web" >Resumify</a> */}
         </a>
       </Link>
       {/* </div> */}
+{/* 
+      a {
+    color: #6c63ff;
+} */}
       <RightItemsContainer>
-        <a className="nav-item show-web">Templates</a>
-        <a className="nav-item show-web">Recommendations</a>
-        <a className="nav-item show-web">About</a>
-        <a
+        {/* <a style={{'color': '#6c63ff'}} className="nav-item show-web">Templates</a>
+        <a style={{'color': '#6c63ff'}} className="nav-item show-web">Recommendations</a>
+        <a style={{'color': '#6c63ff'}} className="nav-item show-web">About</a> */}
+        <a style={{'color': '#6c63ff'}}
           href="https://github.com/dudenayak/MinorProject-Resumify"
           className="icon"
           target="_new"
